@@ -5,3 +5,5 @@ Github Foundation勉強中！！！！！！！
 
 ---
 branch create
+
+- ローカルPCから編集してpushする練習
