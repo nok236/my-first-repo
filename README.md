@@ -1,12 +1,5 @@
 # my-first-repo
-test repository
 
-Github Foundation勉強中！！！！！！！
-
----
-branch create
-
-- ローカルPCから編集してpushする練習
-
----
-- git pullの練習で変更
+## 自己紹介
+- GitHub Foundations 勉強中
+- ローカルからのpushも試した
